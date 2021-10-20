@@ -1,0 +1,36 @@
+{
+  "name": "vc-demo",
+  "version": "1.0.0",
+  "description": "Video call chat app demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon -e js,ejs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.2",
+    "express-openid-connect": "^2.4.0",
+    "nodemailer": "^6.6.2",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "peer": "^0.6.1",
+    "request": "^2.88.2",
+    "socket.io": "^4.1.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shri01kumari/msTeams.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shri01kumari/msTeams/issues"
+  },
+  "homepage": "https://github.com/Shri01kumari/msTeams#readme"
+}
