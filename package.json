@@ -1,13 +1,13 @@
 {
-  "name": "vc-demo",
+  "name": "xmeet",
   "version": "1.0.0",
-  "description": "Video call chat app demo",
+  "description": "An app for video call with people on cloud",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon -e js,ejs"
   },
-  "author": "",
+  "author": "thisisutkarsh",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -28,10 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thisisutkarsh/XMeet.gitt"
+    "url": "git+https://github.com/thisisutkarsh/XMeet.git"
   },
   "bugs": {
     "url": "https://github.com/thisisutkarsh/XMeet/issues"
-  },
-  "homepage": "https://teams-clone-utkarsh.herokuapp.com/"
+  }
 }

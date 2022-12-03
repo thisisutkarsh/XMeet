@@ -57,7 +57,7 @@ Start the server
 
 ## Demo
 
-https://teams-clone-appv3.herokuapp.com/
+https://xmeet-370520.el.r.appspot.com/
 
 ## Author
 
