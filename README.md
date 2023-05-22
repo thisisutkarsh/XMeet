@@ -57,7 +57,7 @@ Start the server
 
 ## Demo
 
-https://xmeet-370520.el.r.appspot.com/
+https://xmeet-production.up.railway.app/
 
 ## Author
 
